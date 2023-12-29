@@ -1,1 +1,25 @@
 /*  your css code here. If applicable */
+#card {
+	width : 250px;
+	background : rgba(245, 245, 245, 0.9);
+	text-align : center;
+	padding : 40px;
+}
+
+h1 {
+	font-size : 40px;
+}
+
+#card > p {
+	font-size : 22px;
+	font-weight : 600;
+}
+
+button {
+	padding : 15px;
+	border-radius : 10px;
+	border : none;
+	background : #fe625a;
+	color : white;
+		font-size : 22px;
+}
